@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_employee.py:21 新增员工数据：{'username': 'toc-gz-108', 'mobile': '17010000018', 'workNumber': '1300008'} 新增员工请求信息头：{'Content-Type': 'application/json', 'Authorization': 'Bearer 3b5b8576-cf6d-49b8-be42-fd54f28df8e1'}
+[32mINFO    [0m root:test02_employee.py:28 新增员工结果：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1228318555543785472'}}
+[32mINFO    [0m root:test02_employee.py:32 员工user_id值为：1228318555543785472

@@ -1,0 +1,3 @@
+[32mINFO    [0m root:api_login.py:15 正在初始化登录url：
+[32mINFO    [0m root:api_login.py:21 正在初始化数据：{'mobile': '13800000002', 'password': '123456'} 请求头信息：{'Content-Type': 'application/json'} 
+[32mINFO    [0m root:test01_login.py:25 登录结果是：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '3b5b8576-cf6d-49b8-be42-fd54f28df8e1'}

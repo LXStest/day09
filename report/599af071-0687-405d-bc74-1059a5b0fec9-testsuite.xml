@@ -1,0 +1,76 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1581688938878" stop="1581688941516">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1581688938878" status="passed" stop="1581688939221">
+      <name>test01_login.Test01.test_login_0_13800000002</name>
+      <attachments>
+        <attachment source="8198f330-10ea-445a-9f84-20195eaabebb-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21080-MainThread"/>
+        <label name="host" value="Flyheima"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581688939533" status="passed" stop="1581688939894">
+      <name>test02_employee.TestEmployee.test01_post_0_toc_gz_108</name>
+      <attachments>
+        <attachment source="d8164f68-c9ef-456b-9cb4-5bc55383a23d-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21080-MainThread"/>
+        <label name="host" value="Flyheima"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581688940196" status="passed" stop="1581688940481">
+      <name>test02_employee.TestEmployee.test02_put</name>
+      <attachments>
+        <attachment source="62a6bd63-f1c6-4645-83f2-591c503284c1-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21080-MainThread"/>
+        <label name="host" value="Flyheima"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581688940703" status="passed" stop="1581688940990">
+      <name>test02_employee.TestEmployee.test03_get</name>
+      <attachments>
+        <attachment source="c371d931-a6bd-4b42-bcb7-180d3b6ea7a5-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21080-MainThread"/>
+        <label name="host" value="Flyheima"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581688941242" status="passed" stop="1581688941516">
+      <name>test02_employee.TestEmployee.test04_delete</name>
+      <attachments>
+        <attachment source="748f2fdd-6233-4f86-92ca-97388160d080-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="21080-MainThread"/>
+        <label name="host" value="Flyheima"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

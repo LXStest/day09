@@ -1,0 +1,2 @@
+[32mINFO    [0m root:api_employee.py:28 修改后的数据：{'username': 'ton-gz-105'}
+[32mINFO    [0m root:test02_employee.py:40 更新员工结果：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1228318555543785472'}}
